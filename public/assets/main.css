@@ -1,0 +1,21 @@
+#errorExists {
+  visibility: hidden;
+  color: red;
+}
+
+.container {
+  font-size: large;
+
+  display: flex;
+  gap: 10px;
+
+  padding-block-end: 10px;
+}
+
+.valueInput {
+  width: 60px;
+}
+
+.deleteButton {
+  color: red;
+}
